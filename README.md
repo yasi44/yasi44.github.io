@@ -11,5 +11,5 @@
 |   | Project     | Data | Tools/Techniques | Description                       | 
 | :-------- | :------- | :-------| :-------- | :-------------------------------- |
 | <img src="https://tse2.mm.bing.net/th?id=OIP.od8CVSZu83bcqG0Trw8N9QHaEL&pid=Api&P=0&h=180" alt="img"  width="450"/> | [Accelerated ETL](https://github.com/yasi44/PySpark_Snippets) | Price | - | Some pieces of my development for accelerating data processing using PySpark. |
-| <img src="https://tse2.mm.bing.net/th?id=OIP.od8CVSZu83bcqG0Trw8N9QHaEL&pid=Api&P=0&h=180" alt="img"  width="450"/> | [Web Scrapper](https://github.com/yasi44/Web-Scrapper) | Text and Numbers | - | Some pieces of my development for customized Web Scrappers. |
+| <img src="https://tse1.mm.bing.net/th?id=OIP.9jVu_87ZtaqGImUshqr-BAHaFe&pid=Api&P=0&h=180" alt="img"  width="450"/> | [Web Scrapper](https://github.com/yasi44/Web-Scrapper) | Text and Numbers | - | Some pieces of my development for customized Web Scrappers. |
 
