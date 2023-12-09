@@ -2,9 +2,9 @@
 
 
 ## Classification
-|   | Project     | Description                       |
-| :-------- | :------- | :-------------------------------- |
-| <img src="https://tse4.mm.bing.net/th?id=OIP.zU3UWFU3dREt9TXVHJmwOAHaEK&pid=Api&P=0&h=180" alt="img"  width="450"/> | [People will comprehend a news as a Bulish or not](https://github.com/yasi44/Classifier_BulishPredictor_NLPCryptoNews_Prices) | This predictor can help to know how people will comprehend a news, before publishing that news. Thus, a market movement from people reaction may be partially predicted. Here a classifier model, trained on the data created from combination of news and price, and all the features engineered and extracted. Given a news, this classifier determines if a news will be comprehend from readers as a Bulish news or not. 
+|   | Project     | Data | Algorithm | Description                       | 
+| :-------- | :------- | :-------| :-------- | :-------------------------------- |
+| <img src="https://tse4.mm.bing.net/th?id=OIP.zU3UWFU3dREt9TXVHJmwOAHaEK&pid=Api&P=0&h=180" alt="img"  width="450"/> | [People will comprehend a news as a Bulish or not](https://github.com/yasi44/Classifier_BulishPredictor_NLPCryptoNews_Prices) | Text and Price| - | This predictor can help to know how people will comprehend a news, before publishing that news. Thus, a market movement from people reaction may be partially predicted. Here a classifier model, trained on the data created from combination of news and price, and all the features engineered and extracted. Given a news, this classifier determines if a news will be comprehend from readers as a Bulish news or not. 
  |
 ## [Classification: People will comprehend a news as a Bulish or not](https://github.com/yasi44/Classifier_BulishPredictor_NLPCryptoNews_Prices)
 ### This predictor can help to know how people will comprehend a news, before publishing that news. Thus, a market movement from people reaction may be partially predicted. Here a classifier model, trained on the data created from combination of news and price, and all the features engineered and extracted. Given a news, this classifier determines if a news will be comprehend from readers as a Bulish news or not. 
