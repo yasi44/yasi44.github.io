@@ -13,18 +13,14 @@
 -  Get pretrained models (for both image and text) from tensorflow hub and retrain them on a set of data to achieve our business goal.
 -  Data: Text and image
 -  Algorithm: -
-\
-\
-\
+
 ## Clustering
 #### [Customer Segmentation(Marketing Analytics)](https://github.com/yasi44/Market-Analytics---Customer-Segmentation)
 ![Alt text](https://tse2.mm.bing.net/th?id=OIP.fWML8gojKp5PnKKjJqBqXwHaEh&pid=Api&P=0&h=180)
 - Here we are going to find different shoping groups based on demographics information(age,income) and shoping score to better understand the target group for marketing campaigns
 - Data: Customer's demographics information
 - Algorithm: KMeans
-\
-\
-\
+
 ## Data Processing (ETL)
 #### [Accelerated ETL](https://github.com/yasi44/PySpark_Snippets)
 ![Alt text](https://tse2.mm.bing.net/th?id=OIP.od8CVSZu83bcqG0Trw8N9QHaEL&pid=Api&P=0&h=180)
