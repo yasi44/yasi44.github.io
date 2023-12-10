@@ -8,7 +8,7 @@
 - Data: Text and Price
 - Algorithm: RandomForestClassifier
   
-<br />  
+
 
 #### [Transfer Learning on both image and text](https://github.com/yasi44/TransferLearning)
 ![Alt text](https://learnopencv.com/wp-content/uploads/2019/05/transfer-learning.jpg)
@@ -16,7 +16,6 @@
 -  Data: Text and image
 -  Algorithm: -
 
-<br />
 
 ## Clustering
 #### [Customer Segmentation(Marketing Analytics)](https://github.com/yasi44/Market-Analytics---Customer-Segmentation)
@@ -25,7 +24,7 @@
 - Data: Customer's demographics information
 - Algorithm: KMeans
   
-<br />  
+
 
 ## Data Processing (ETL)
 #### [Accelerated ETL](https://github.com/yasi44/PySpark_Snippets)
@@ -33,8 +32,7 @@
 - Here I used PySpark to accelerate the analysis of 1TB Bitcoin coin data(BTCUSD) from Binance stored in AWS S3, using AWS EMR cluster.
 - Data: Cryptocurrency data
 - Tools/Techniques: PySpark on AWS EMR
-  
-<br />  
+
 
 #### [Web Scrapper](https://github.com/yasi44/Web-Scrapper)
 ![Alt text]()
