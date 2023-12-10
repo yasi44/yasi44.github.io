@@ -11,7 +11,7 @@
 ## Clustering
 |   | Project     | Data | Algorithm | Description                       | 
 | :-------- | :------- | :-------| :-------- | :-------------------------------- |
-| <img src="https://camo.githubusercontent.com/e822181bbd573e4c90999ba45d4b4fd08054d5830ce5ac29f2670c7a3c3cff76/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3737302f312a4938342d5043492d6b4375536b64377644745f6c75512e706e67" alt="img"  width="750"/> | [Customer Segmentation(Marketing Analytics)](https://github.com/yasi44/Market-Analytics---Customer-Segmentation) | customer's demographics information | KMeans | Here we are going to find different shoping groups based on demographics information(age,income) and shoping score to better understand the target group for marketing campaigns. |
+| <img src="https://tse2.mm.bing.net/th?id=OIP.fWML8gojKp5PnKKjJqBqXwHaEh&pid=Api&P=0&h=180" alt="img"  width="750"/> | [Customer Segmentation(Marketing Analytics)](https://github.com/yasi44/Market-Analytics---Customer-Segmentation) | customer's demographics information | KMeans | Here we are going to find different shoping groups based on demographics information(age,income) and shoping score to better understand the target group for marketing campaigns. |
 
 ## Data Processing (ETL)
 |   | Project     | Data | Tools/Techniques | Description                       | 
