@@ -8,8 +8,6 @@
 - Data: Text and Price
 - Algorithm: RandomForestClassifier
 <br/>
-
-
 #### [Transfer Learning on both image and text](https://github.com/yasi44/TransferLearning)
 ![Alt text](https://learnopencv.com/wp-content/uploads/2019/05/transfer-learning.jpg)
 -  Get pretrained models (for both image and text) from tensorflow hub and retrain them on a set of data to achieve our business goal.
@@ -24,7 +22,6 @@
 - Data: Customer's demographics information
 - Algorithm: KMeans
 <br/>  
-
 <br/>
 ## Data Processing (ETL)
 #### [Accelerated ETL](https://github.com/yasi44/PySpark_Snippets)
@@ -33,7 +30,6 @@
 - Data: Cryptocurrency data
 - Tools/Techniques: PySpark on AWS EMR
 <br/>
-
 #### [Web Scrapper](https://github.com/yasi44/Web-Scrapper)
 ![Alt text]()
 - Some pieces of my development for customized Web Scrappers.
