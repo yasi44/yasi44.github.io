@@ -16,7 +16,7 @@
 -  Data: Text and image
 -  Algorithm: -
 <br/>
-
+<br/>
 ## Clustering
 #### [Customer Segmentation(Marketing Analytics)](https://github.com/yasi44/Market-Analytics---Customer-Segmentation)
 ![Alt text](https://tse2.mm.bing.net/th?id=OIP.fWML8gojKp5PnKKjJqBqXwHaEh&pid=Api&P=0&h=180)
@@ -25,7 +25,7 @@
 - Algorithm: KMeans
 <br/>  
 
-
+<br/>
 ## Data Processing (ETL)
 #### [Accelerated ETL](https://github.com/yasi44/PySpark_Snippets)
 ![Alt text](https://tse2.mm.bing.net/th?id=OIP.od8CVSZu83bcqG0Trw8N9QHaEL&pid=Api&P=0&h=180)
