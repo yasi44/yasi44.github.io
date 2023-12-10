@@ -11,22 +11,19 @@
 ![Alt text](https://learnopencv.com/wp-content/uploads/2019/05/transfer-learning.jpg)
 -  Get pretrained models (for both image and text) from tensorflow hub and retrain them on a set of data to achieve our business goal.
 -  Data: Text and image
--  Algorithm: -
-\\
+-  Algorithm: -\\
 ## Clustering
 #### [Customer Segmentation(Marketing Analytics)](https://github.com/yasi44/Market-Analytics---Customer-Segmentation)
 ![Alt text](https://tse2.mm.bing.net/th?id=OIP.fWML8gojKp5PnKKjJqBqXwHaEh&pid=Api&P=0&h=180)
 - Here we are going to find different shoping groups based on demographics information(age,income) and shoping score to better understand the target group for marketing campaigns
 - Data: Customer's demographics information
-- Algorithm: KMeans
-\\
+- Algorithm: KMeans\\
 ## Data Processing (ETL)
 #### [Accelerated ETL](https://github.com/yasi44/PySpark_Snippets)
 ![Alt text](https://tse2.mm.bing.net/th?id=OIP.od8CVSZu83bcqG0Trw8N9QHaEL&pid=Api&P=0&h=180)
 - Here I used PySpark to accelerate the analysis of 1TB Bitcoin coin data(BTCUSD) from Binance stored in AWS S3, using AWS EMR cluster.
 - Data: Cryptocurrency data
-- Tools/Techniques: PySpark on AWS EMR
-\
+- Tools/Techniques: PySpark on AWS EMR\
 #### [Web Scrapper](https://github.com/yasi44/Web-Scrapper)
 ![Alt text]()
 - Some pieces of my development for customized Web Scrappers.
