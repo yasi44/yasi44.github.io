@@ -28,9 +28,9 @@
 - Data: Cryptocurrency data
 - Tools/Techniques: PySpark on AWS EMR
 
-#### [Web Scrapper](https://github.com/yasi44/Web-Scrapper)
+#### [Web Crawler](https://github.com/yasi44/Web-Scrapper)
 ![Alt text]()
-- Some pieces of my development for customized Web Scrappers.
+- Some pieces of my development for customized Web Crawler.
 - Data: Text and Numbers
 - Tools/Techniques: Selenium
 
