@@ -4,7 +4,7 @@
 ## Classification
 #### [Unsupervised Image Classification Using Pretrained model Cosine Similarity and ResNet50 ](https://github.com/yasi44/Image_Classification_Unsupervised)
 - For any input image, classify the input into one of the following classes:
-Character1, Character2, Character3
+Character1, Character2, Character3, or none of them
 
 - The training dataset comprises 92,350 .jpeg images(unlabeled) stored in the images.tar file.
 - The images vary in size, necessitating resizing for consistency.
