@@ -2,6 +2,16 @@
 
 
 ## Classification
+#### [Unsupervised Image Classification Using Pretrained model Cosine Similarity and ResNet50 ](https://github.com/yasi44/Image_Classification_Unsupervised)
+- For any input image, classify the input into one of the following classes:
+Character1, Character2, Character3
+
+- The training dataset comprises 92,350 .jpeg images(unlabeled) stored in the images.tar file.
+- The images vary in size, necessitating resizing for consistency.
+- The dataset is unlabelled, meaning similar images are not grouped under specific classes.
+- Embeddings of the images in the images.tar file are available in embeddings.npy, where each image is represented by a 512-dimensional vector.
+- The test set (test_set.csv) consists of 100 image indices from the training set, chosen to evaluate the final classification model.
+
 #### [Will people comprehend the news as a Bulish or not?](https://github.com/yasi44/Classifier_BulishPredictor_NLPCryptoNews_Prices)
 ![Alt text](https://tse4.mm.bing.net/th?id=OIP.zU3UWFU3dREt9TXVHJmwOAHaEK&pid=Api&P=0&h=180)
 - This predictor can help to know how people will comprehend a news, before publishing that news. Thus, a market movement from people reaction may be partially predicted. Here a classifier model, trained on the data created from combination of news and price, and all the features engineered and extracted. Given a news, this classifier determines if a news will be comprehend from readers as a Bulish news or not.
