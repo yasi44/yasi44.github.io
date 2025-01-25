@@ -2,6 +2,10 @@
 
 ## LLM LangChain 
 #### [QA LLM](https://github.com/yasi44/LangChain_Practices)
+
+## Game using Reinforcement Learning
+#### [](https://github.com/yasi44/Game/tree/main)
+
 ## Classification
 - An example Python implementation for building a QA module using Google PaLM through LangChain, combined with FAISS for vector-based similarity search.
 - Here a sample QA example is used. in real project, there must be a QA database where each entry contains a question and its corresponding answer.
