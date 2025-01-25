@@ -1,7 +1,11 @@
 # Sample of Projects:
 
-
+## LLM LangChain 
+#### [QA LLM](https://github.com/yasi44/LangChain_Practices)
 ## Classification
+- An example Python implementation for building a QA module using Google PaLM through LangChain, combined with FAISS for vector-based similarity search.
+- Here a sample QA example is used. in real project, there must be a QA database where each entry contains a question and its corresponding answer.
+   
 #### [Unsupervised Image Classification Using Pretrained model Cosine Similarity and ResNet50 ](https://github.com/yasi44/Image_Classification_Unsupervised)
 - For any input image, classify the input into one of the following classes:
 Character1, Character2, Character3, or none of them
