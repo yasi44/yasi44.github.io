@@ -1,10 +1,14 @@
 # Sample of Projects:
 
 ## LLM LangChain 
+#### [Amazon Beauty Assistant](https://github.com/UBC-MDS/DSCI_575_project_yasieft_purityj)
+Amazon Beauty Assistant is a context-aware product search and recommendation system that retrieves relevant Amazon beauty products from natural language queries and generates grounded answers using a large language model.
+
 #### [QA LLM](https://github.com/yasi44/LangChain_Practices)
 
-## Game using Reinforcement Learning
-#### [Here a non-player character (NPC) is created that learns to navigate a simple grid-based environment using reinforcement learning. Here we used Q-learning, a popular RL algorithm to teach the NPC to reach a target while avoiding obstacles.](https://github.com/yasi44/Game/tree/main)
+## Regression
+#### [Predicting Marketing Campaign Response Using Logistic Regression](https://github.com/Roccolee18/bank_marketing_group_24)
+The project builds a machine-learning pipeline to predict whether a customer will subscribe to a marketing campaign. We use Logistic regression with a preprocessing pipeline (StandardScaler and OneHotEncoder) to handle numerical and categorical features. Since the dataset is highly imbalanced, we enabled the class_weight = "balanced" to help the model detect the minority class more efficiently.
 
 ## Classification
 - An example Python implementation for building a QA module using Google PaLM through LangChain, combined with FAISS for vector-based similarity search.
@@ -39,7 +43,19 @@ Character1, Character2, Character3, or none of them
 - Data: Customer's demographics information
 - Algorithm: KMeans
 
+## Visualization
+#### [Uber Data VisualizationUsing Shiny in R](https://github.com/yasi44/Uber-Data-Visualization-Shiny-in-R-)
+
+
+## Game using Reinforcement Learning
+#### [Here a non-player character (NPC) is created that learns to navigate a simple grid-based environment using reinforcement learning. Here we used Q-learning, a popular RL algorithm to teach the NPC to reach a target while avoiding obstacles.](https://github.com/yasi44/Game/tree/main)
+
+
 ## Data Processing (ETL)
+
+#### [datajanitor package](https://github.com/UBC-MDS/DSCI_524_group31_datajanitor)
+Datajanitor is a Python package that focuses on basic data cleaning and validation tasks for tabular data, mainly pandas DataFrames. The goal is to make common cleaning steps easier and clearer than writing everything manually in pandas, especially by providing simple function interfaces and clearer error messages.
+
 #### [Accelerated ETL](https://github.com/yasi44/PySpark_Snippets)
 ![Alt text](https://tse2.mm.bing.net/th?id=OIP.od8CVSZu83bcqG0Trw8N9QHaEL&pid=Api&P=0&h=180)
 - Here I used PySpark to accelerate the analysis of 1TB Bitcoin coin data(BTCUSD) from Binance stored in AWS S3, using AWS EMR cluster.
