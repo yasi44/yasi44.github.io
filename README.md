@@ -1,7 +1,7 @@
 # Sample of Projects:
 
 ## LLM LangChain 
-#### [Amazon Beauty Assistant](https://github.com/ALS-MDS2026/ALS-LLM-project)
+#### [ALS Resume–job matching](https://github.com/ALS-MDS2026/ALS-LLM-project)
 Resume–job matching Package.
 Ranking candidates against job descriptions using lexical and semantic retrieval, fusion methods, and an advisory anti-gaming layer.
 
