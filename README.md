@@ -1,6 +1,10 @@
 # Sample of Projects:
 
 ## LLM LangChain 
+#### [Amazon Beauty Assistant](https://github.com/ALS-MDS2026/ALS-LLM-project)
+Resume–job matching Package.
+Ranking candidates against job descriptions using lexical and semantic retrieval, fusion methods, and an advisory anti-gaming layer.
+
 #### [Amazon Beauty Assistant](https://github.com/UBC-MDS/DSCI_575_project_yasieft_purityj)
 Amazon Beauty Assistant is a context-aware product search and recommendation system that retrieves relevant Amazon beauty products from natural language queries and generates grounded answers using a large language model.
 
