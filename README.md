@@ -15,6 +15,9 @@ Here we used:
 
 
 #### [QA LLM](https://github.com/yasi44/LangChain_Practices)
+Retrieval-Augmented Question Answering System (LangChain, Google PaLM, FAISS): 
+
+Developed a document-based QA application using Google PaLM and LangChain, leveraging FAISS vector search for semantic retrieval of relevant knowledge. Implemented an end-to-end Retrieval-Augmented Generation (RAG) pipeline that converts documents into embeddings and generates accurate answers based on retrieved context.
 
 ## Regression
 #### [Predicting Marketing Campaign Response Using Logistic Regression](https://github.com/Roccolee18/bank_marketing_group_24)
