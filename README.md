@@ -6,7 +6,13 @@ Resume–job matching Package.
 Ranking candidates against job descriptions using lexical and semantic retrieval, fusion methods, and an advisory anti-gaming layer.
 
 #### [Amazon Beauty Assistant](https://github.com/UBC-MDS/DSCI_575_project_yasieft_purityj)
-Amazon Beauty Assistant is a context-aware product search and recommendation system that retrieves relevant Amazon beauty products from natural language queries and generates grounded answers using a large language model.
+Amazon Beauty Assistant is a context-aware product search and recommendation system that retrieves relevant Amazon beauty products from natural language queries and generates grounded answers using a large language model. 
+
+Here we used:
+- BM25 index    +    FAISS index
+- Hybrid retriever (RRF)
+- RAG pipeline → Llama 3.3 70B (Groq) → Answer
+
 
 #### [QA LLM](https://github.com/yasi44/LangChain_Practices)
 
