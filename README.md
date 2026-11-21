@@ -1,6 +1,11 @@
 # Sample of Projects:
 
 ## LLM LangChain 
+
+#### [Multi-Agents Supplier–Buyer Document Cross-Check Platform ](https://github.com/yasi44/Multi_Agents-Supplier-Buyer-Documents-Cross-Check)
+SupplierBuyerDocumentsCrossCheck is a multi-agent document validation platform using LangChain, FastAPI, Celery, Redis, PostgreSQL/pgvector, React/TypeScript, Docker, and Google Kubernetes Engine to cross-check supplier documents against purchase orders and goods receipts.
+Automated extraction, deduplication, document matching, exception detection, and human-in-the-loop approvals; the pipeline processed 155 files into 30 shipment packs, achieving 100% detection of planted exceptions with end-to-end unit and integration test coverage.
+
 #### [ALS Resume–job matching](https://github.com/ALS-MDS2026/ALS-LLM-project)
 Resume–job matching Package.
 Ranking candidates against job descriptions using lexical and semantic retrieval, fusion methods, and an advisory anti-gaming layer.
